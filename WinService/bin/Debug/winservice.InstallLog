@@ -1,0 +1,71 @@
+﻿Installing assembly 'C:\Users\ssharma\source\repos\WinService\WinService\bin\Debug\winservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ssharma\source\repos\WinService\WinService\bin\Debug\winservice.InstallLog
+   assemblypath = C:\Users\ssharma\source\repos\WinService\WinService\bin\Debug\winservice.exe
+Rolling back assembly 'C:\Users\ssharma\source\repos\WinService\WinService\bin\Debug\winservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ssharma\source\repos\WinService\WinService\bin\Debug\winservice.InstallLog
+   assemblypath = C:\Users\ssharma\source\repos\WinService\WinService\bin\Debug\winservice.exe
+Installing assembly 'C:\Users\ssharma\source\repos\WinService\WinService\bin\Debug\winservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ssharma\source\repos\WinService\WinService\bin\Debug\winservice.InstallLog
+   assemblypath = C:\Users\ssharma\source\repos\WinService\WinService\bin\Debug\winservice.exe
+Installing service EventLogService...
+Creating EventLog source EventLogService in log Application...
+Rolling back assembly 'C:\Users\ssharma\source\repos\WinService\WinService\bin\Debug\winservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ssharma\source\repos\WinService\WinService\bin\Debug\winservice.InstallLog
+   assemblypath = C:\Users\ssharma\source\repos\WinService\WinService\bin\Debug\winservice.exe
+Restoring event log to previous state for source EventLogService.
+Installing assembly 'C:\Users\ssharma\source\repos\WinService\WinService\bin\Debug\winservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ssharma\source\repos\WinService\WinService\bin\Debug\winservice.InstallLog
+   assemblypath = C:\Users\ssharma\source\repos\WinService\WinService\bin\Debug\winservice.exe
+Installing service EventLogService...
+Creating EventLog source EventLogService in log Application...
+Rolling back assembly 'C:\Users\ssharma\source\repos\WinService\WinService\bin\Debug\winservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ssharma\source\repos\WinService\WinService\bin\Debug\winservice.InstallLog
+   assemblypath = C:\Users\ssharma\source\repos\WinService\WinService\bin\Debug\winservice.exe
+Restoring event log to previous state for source EventLogService.
+Installing assembly 'C:\Users\ssharma\source\repos\WinService\WinService\bin\Debug\winservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ssharma\source\repos\WinService\WinService\bin\Debug\winservice.InstallLog
+   assemblypath = C:\Users\ssharma\source\repos\WinService\WinService\bin\Debug\winservice.exe
+Installing service EventLogService...
+Service EventLogService has been successfully installed.
+Creating EventLog source EventLogService in log Application...
+Committing assembly 'C:\Users\ssharma\source\repos\WinService\WinService\bin\Debug\winservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ssharma\source\repos\WinService\WinService\bin\Debug\winservice.InstallLog
+   assemblypath = C:\Users\ssharma\source\repos\WinService\WinService\bin\Debug\winservice.exe
+Installing assembly 'C:\Users\ssharma\source\repos\WinService\WinService\bin\Debug\winservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ssharma\source\repos\WinService\WinService\bin\Debug\winservice.InstallLog
+   assemblypath = C:\Users\ssharma\source\repos\WinService\WinService\bin\Debug\winservice.exe
+Installing service EventLogService...
+Creating EventLog source EventLogService in log Application...
+Rolling back assembly 'C:\Users\ssharma\source\repos\WinService\WinService\bin\Debug\winservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ssharma\source\repos\WinService\WinService\bin\Debug\winservice.InstallLog
+   assemblypath = C:\Users\ssharma\source\repos\WinService\WinService\bin\Debug\winservice.exe
+Restoring event log to previous state for source EventLogService.
+Uninstalling assembly 'C:\Users\ssharma\source\repos\WinService\WinService\bin\Debug\winservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ssharma\source\repos\WinService\WinService\bin\Debug\winservice.InstallLog
+   assemblypath = C:\Users\ssharma\source\repos\WinService\WinService\bin\Debug\winservice.exe
+Removing EventLog source EventLogService.
+Service EventLogService is being removed from the system...
+Service EventLogService was successfully removed from the system.
+Attempt to stop service EventLogService.

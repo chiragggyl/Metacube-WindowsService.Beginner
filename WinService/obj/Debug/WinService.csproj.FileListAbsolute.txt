@@ -1,0 +1,9 @@
+C:\Users\ssharma\source\repos\WinService\WinService\bin\Debug\WinService.exe.config
+C:\Users\ssharma\source\repos\WinService\WinService\bin\Debug\WinService.exe
+C:\Users\ssharma\source\repos\WinService\WinService\bin\Debug\WinService.pdb
+C:\Users\ssharma\source\repos\WinService\WinService\obj\Debug\WinService.csprojAssemblyReference.cache
+C:\Users\ssharma\source\repos\WinService\WinService\obj\Debug\WinService.ProjectInstaller.resources
+C:\Users\ssharma\source\repos\WinService\WinService\obj\Debug\WinService.csproj.GenerateResource.cache
+C:\Users\ssharma\source\repos\WinService\WinService\obj\Debug\WinService.csproj.CoreCompileInputs.cache
+C:\Users\ssharma\source\repos\WinService\WinService\obj\Debug\WinService.exe
+C:\Users\ssharma\source\repos\WinService\WinService\obj\Debug\WinService.pdb
